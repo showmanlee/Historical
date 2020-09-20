@@ -1,0 +1,16 @@
+c:\users\hoon1\documents\visual studio 2017\Projects\HistoricalGUI\HistoricalGUI\bin\Debug\HistoricalGUI.exe.config
+c:\users\hoon1\documents\visual studio 2017\Projects\HistoricalGUI\HistoricalGUI\bin\Debug\HistoricalGUI.exe
+c:\users\hoon1\documents\visual studio 2017\Projects\HistoricalGUI\HistoricalGUI\bin\Debug\HistoricalGUI.pdb
+c:\users\hoon1\documents\visual studio 2017\Projects\HistoricalGUI\HistoricalGUI\obj\Debug\HistoricalGUI.csprojResolveAssemblyReference.cache
+c:\users\hoon1\documents\visual studio 2017\Projects\HistoricalGUI\HistoricalGUI\obj\Debug\HistoricalGUI.Form1.resources
+c:\users\hoon1\documents\visual studio 2017\Projects\HistoricalGUI\HistoricalGUI\obj\Debug\HistoricalGUI.Properties.Resources.resources
+c:\users\hoon1\documents\visual studio 2017\Projects\HistoricalGUI\HistoricalGUI\obj\Debug\HistoricalGUI.csproj.GenerateResource.Cache
+c:\users\hoon1\documents\visual studio 2017\Projects\HistoricalGUI\HistoricalGUI\obj\Debug\HistoricalGUI.exe
+c:\users\hoon1\documents\visual studio 2017\Projects\HistoricalGUI\HistoricalGUI\obj\Debug\HistoricalGUI.pdb
+C:\Users\hoon1\Documents\Visual Studio 2017\Projects\HistoricalGUI\HistoricalGUI\obj\Debug\HistoricalGUI.Browser.resources
+C:\Users\hoon1\documents\visual studio 2017\Projects\HistoricalGUI\HistoricalGUI\obj\Debug\HistoricalGUI.Select.resources
+C:\Users\hoon1\documents\visual studio 2017\Projects\HistoricalGUI\HistoricalGUI\bin\Debug\HistoricalGUI.exe.manifest
+C:\Users\hoon1\documents\visual studio 2017\Projects\HistoricalGUI\HistoricalGUI\bin\Debug\HistoricalGUI.application
+C:\Users\hoon1\documents\visual studio 2017\Projects\HistoricalGUI\HistoricalGUI\obj\Debug\HistoricalGUI.exe.manifest
+C:\Users\hoon1\documents\visual studio 2017\Projects\HistoricalGUI\HistoricalGUI\obj\Debug\HistoricalGUI.application
+C:\Users\hoon1\documents\visual studio 2017\Projects\HistoricalGUI\HistoricalGUI\obj\Debug\HistoricalGUI.quiz.resources
